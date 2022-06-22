@@ -12,7 +12,7 @@
 
 ## Project Overview
 
-- The Group 2 Project is a Job Tracker Web Application called FollowUp. It is developed with a ReactJS frontend with a NodeJS Backend web server.
+- This is a Job Tracker Web Application called FollowUp. It is developed with a ReactJS frontend with a Go & NodeJS Microservices Architecture
 
 - Nowadays, it is not unusual to apply for multiple jobs at a time. However, handling many applications at once can be challenging. FollowUp aims to help job candidates better manage the status and next steps of their applications. The goal is to help them not miss any deadlines, better prepare for the upcoming steps, and, therefore, improve their chances of getting the job offer they desire.
 
@@ -29,7 +29,7 @@
 - AWS Lambda and API Gateway to route user requests
 - Managed PostgreSQL Database running in the Cloud for user and application data
 - Github as the VCS Repository Service
-- Github Pages for Hosting SPA
+- Vercel for Hosting the SPA
 
 ## Instructions for Running Application!
 
